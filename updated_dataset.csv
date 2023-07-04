@@ -1,0 +1,425 @@
+﻿location,code,f_name,l_name,sex,age,age_group,combined,sample
+Gaziantep,001-c1-m-44-rif-gaz-hrc-t1-a0-y,معتز,مراد,m,44,41-50,Gaziantepm41-50,0
+Gaziantep,002-C1-M-45-Ale-Gaz-TPC-T1-00-Y,سامر,العبود,m,45,41-50,Gaziantepm41-50,1
+Hatay,004-c1-m-63-tur-hat-tid-t1-00-y,عبدالرحمن,دولغن,m,63,61-70,Hataym61-70,1
+Gaziantep,005-c1-m-58-ale-gaz-tpc-t1-00-y,أحمد ,برو,m,58,51-60,Gaziantepm51-60,0
+Hatay,006-c1-m-34-lat-hat-tpc-t1-a0-y,قصي,قدور,m,34,31-40,Hataym31-40,0
+Şanlıurfa,008-c1-m-27-dei-şan-tpc-t1-a0-y,أحمد,العبد العزيز ,m,27,21-30,Şanlıurfam21-30,0
+Gaziantep,009-c1-m-65-raq-gaz-tpc-t1at-y,محمد,الصالح,m,65,61-70,Gaziantepm61-70,0
+Gaziantep,010-c1-m-42-idl-gaz-tpc-t1-a0-y,ناصر,الرحال,m,42,41-50,Gaziantepm41-50,0
+Gaziantep,011-c1-m-39-dam-gaz-tpc-t1-00-y,هشام,العيسى,m,39,31-40,Gaziantepm31-40,0
+Gaziantep,012-c1-m-31-Ale-Gaz-tpc-t1-00-y,جمعة,حاج داوود,m,31,31-40,Gaziantepm31-40,0
+Mersın,013-c1-m-27-lat-mer-tpc-t1-at-y,محمد ,اسماعيل ,m,27,21-30,Mersınm21-30,0
+Mersın,015-c1-m-59-ale-mer-tpc-t1-00-y,احمد ,حمامة,m,59,51-60,Mersınm51-60,0
+Hatay,016-c1-m-38-ham-hat-tpc-t1-00-y,حفص,بكور,m,38,31-40,Hataym31-40,0
+Hatay,017-c1-m-36-lat-hat-tpc-t1-00-y,أنس,حمدو,m,36,31-40,Hataym31-40,0
+Gaziantep,018-c1-m-40-ham-gaz-trc-t1-a0-y,طه,البكور,m,40,41-50,Gaziantepm41-50,0
+Gaziantep,019-C1-M-44-Raq-Gaz-TRC-T1-A0-Y,طه,الحاج عمر,m,44,41-50,Gaziantepm41-50,0
+Hatay,020-c1-m-41-suw-hat-tid-t1-00-y,VISAM,ALZAIN,m,41,41-50,Hataym41-50,0
+Şanlıurfa,022-c1-m-45-raq-şan-tpc-t1-a0-y,زكريا,الحمادة,m,45,41-50,Şanlıurfam41-50,1
+Mersın,023-c1-m-31-Idl-mer-tpc-t1-a0-y,محمد ,البكور ,m,31,31-40,Mersınm31-40,0
+Gaziantep,025-c1-m-30-ale-gaz-tpc-t1-00-y,محمود,اللومان,m,30,31-40,Gaziantepm31-40,0
+Hatay,026-c1-m-49-idl-hat-tpc-t1-00-y,أحمد ,دوشانية,m,49,41-50,Hataym41-50,0
+Mersın,028-c1-m-41-ale-ada-tpc-t1-00-y,طاهر,الطاهر,m,41,41-50,Mersınm41-50,0
+Mersın,029-c1-m-23-dei-mer-tpc-t1-00-y,بندر ,العجيل ,m,23,21-30,Mersınm21-30,1
+Hatay,032-c1-m-40-idl-hat-non-t1-00-y,محمد,أمونة,m,40,41-50,Hataym41-50,0
+Hatay,033-c1-m-32-idl-hat-tpc-t1-a0-y,مضر,حج خليل,m,32,31-40,Hataym31-40,0
+Hatay,034-c1-m-44-lat-hat-tpc-t1-00-y,احمد,فاتو,m,44,41-50,Hataym41-50,0
+Şanlıurfa,035-c7-m-35-dei-şan-tpc-t1-00-y,عبيدة ,اليوسف,m,35,31-40,Şanlıurfam31-40,0
+Şanlıurfa,038-c7-m-35-has-şan-tpc-t1-00-y,فايز,الخيري,m,35,31-40,Şanlıurfam31-40,0
+Şanlıurfa,039-c7-m-27-dei-şan-tpc-t1-00-y,عبد الفتاح,العجيل,m,27,21-30,Şanlıurfam21-30,0
+Şanlıurfa,040-C1-M-61-Dei-Şan-TPC-T1-00-Y,حسن,العشيش,m,61,61-70,Şanlıurfam61-70,0
+Hatay,041-c1-m-52-rlf-hat-tpc-t1-a0-y,خالد,غصن,m,52,51-60,Hataym51-60,1
+Hatay,042-c6-m-49-ham-hat-tid-t1-00-y,أسامة,شيخ حامد,m,49,41-50,Hataym41-50,0
+Şanlıurfa,043-c1-m-42-dei-şan-tpc-t1-a0-y,باسل ,العيد,m,42,41-50,Şanlıurfam41-50,1
+Şanlıurfa,044-c1-m-53-has-şan-tpc-t1-a0-y,محمود,شمالي,m,53,51-60,Şanlıurfam51-60,1
+Şanlıurfa,045-c1-m-40-dei-şan-tpc-t1-a0-y,معاذ ,الثامر,m,40,41-50,Şanlıurfam41-50,0
+Hatay,046-c1-m-52-ham-hat-tpc-t1-a0-y,محمد سامر,الصالح,m,52,51-60,Hataym51-60,0
+Hatay,047-c1-m-41-ham-hat-tpc-t1-00-y,مروان,الشريف,m,41,41-50,Hataym41-50,1
+Hatay,048-c1-m-31-idl-hat-tpc-t1-00-y,أدهم,العبود,m,31,31-40,Hataym31-40,0
+Mersın,049-c1-m-56-ale-ada-tpc-t1-a0-y,احمد,الشهاب,m,56,51-60,Mersınm51-60,1
+Hatay,050-c1-m-41-dam-hat-tid-t1-a0-y,محمد,المحلي,m,41,41-50,Hataym41-50,0
+Hatay,051-C6-M-36-Ham-Hat-TID-T1-00-Y,غزوان,هنداوي,m,36,31-40,Hataym31-40,0
+Hatay,052-c6-m-31-idl-hat-tpc-t1-00-y,محمد ,عبد الساتر ,m,31,31-40,Hataym31-40,1
+Hatay,053-c6-m-43-dar-hat-tpc-t1-00-y,خليل,زعبي,m,43,41-50,Hataym41-50,0
+Gaziantep,054-c6-m-29--dam-gaz-tpc-t1-00-y,أسامة,شيلوكي,m,29,21-30,Gaziantepm21-30,0
+Şanlıurfa,055-c1-m-45-ham-şan-tid-t1-a0-y,صدام,الجاسر,m,45,41-50,Şanlıurfam41-50,0
+Hatay,056-c1-m-42-ale-hat-tpc-t1-00-y,هيثم,العمر,m,42,41-50,Hataym41-50,0
+Gaziantep,060-c6-m-41-idl-gaz-tpc-t1-00-y,عبد الله,صطوف,m,41,41-50,Gaziantepm41-50,0
+Şanlıurfa,061-c7-m-54-dei-şan-tpc-t1-00-y,عبد الحميد,الحمادة,m,54,51-60,Şanlıurfam51-60,0
+Şanlıurfa,062-c1-m-38-dei-şan-tpc-t1-a0-y,عبد اللطيف,العبد,m,38,31-40,Şanlıurfam31-40,0
+Şanlıurfa,063-c7-f-29-dei-şan-tpc-t1-00-y,أسماء ,هنيدي ,f,29,21-30,Şanlıurfaf21-30,1
+Şanlıurfa,064-c1-m-56-has-şan-tpc-t1-00-y,ناجي,الحسن,m,56,51-60,Şanlıurfam51-60,0
+Şanlıurfa,065-c1-m-46-has-şan-tid-tpc-t1-00-y,عدنان,جدعان,m,46,41-50,Şanlıurfam41-50,0
+Hatay,066-c1-m-45-idl-hat-tpc-t1-a0-y,أسامة,كاش,m,45,41-50,Hataym41-50,0
+Hatay,067-c1-m-60-tur-hat-tid-t1-00-y,مصطفى,آل بيرق,m,60,61-70,Hataym61-70,0
+Şanlıurfa,068-c1-m-61-raq-şan-tid-t1-a0-y,عبدالرحمن,العليان,m,61,61-70,Şanlıurfam61-70,0
+Hatay,069-c6-m-26-ham-hat-tpc-t1-00-y,محمد,المحمود,m,26,21-30,Hataym21-30,1
+Hatay,070-c1-m-37-ham-hat-tpc-t1-a0-y,باسم,الشيخ حامد,m,37,31-40,Hataym31-40,0
+Hatay,071-c1-m-68-ham-hat-tid-t1-00-y,خالد,الياسين,m,68,61-70,Hataym61-70,0
+Şanlıurfa,075-c1-m-59-dei-şan-tpc-t1-a0-y,إسماعيل ,الحمود الخلف ,m,59,51-60,Şanlıurfam51-60,0
+Gaziantep,076-c1-m-51-ale-gaz-tpc-t1-00-y,ممدوح,عبد القادر,m,51,51-60,Gaziantepm51-60,0
+Gaziantep,077-c1-m-29-ale-gaz-tpc-t1-a0-y,عبد الله,الإبراهيم,m,29,21-30,Gaziantepm21-30,0
+Şanlıurfa,078-c1-m-30-dei-şan-tpc-t1-00-y,حمد,المحيميد ,m,30,31-40,Şanlıurfam31-40,0
+Hatay,079-c6-f-27-ham-hat-tpc-t1-00-y,أنوار,حمزة,f,27,21-30,Hatayf21-30,1
+Gaziantep,081-c1-m-25-hom-gaz-tpc-t1-a0-y, أحمد ,الفهد,m,25,21-30,Gaziantepm21-30,1
+Şanlıurfa,082-c1-m-44-ham-şan-tpc-t1-00-y,محمد,العبيد,m,44,41-50,Şanlıurfam41-50,0
+Şanlıurfa,083-c1-m-33-dei-şan-tpc-t1-00-y,خليل,الفهد,m,33,31-40,Şanlıurfam31-40,0
+Gaziantep,084-c1-m-25-dar-gaz-tpc-t1-00-y,قيس,أبو نقطة,m,25,21-30,Gaziantepm21-30,0
+Şanlıurfa,085-c1-m-69-dei-şan-tpc-t1-00-y,خالد,العبد,m,69,61-70,Şanlıurfam61-70,0
+Şanlıurfa,086-c1-m-62-dei-şan-tpc-t1-00-y,احمد,احمد,m,62,61-70,Şanlıurfam61-70,0
+Gaziantep,087-C6-M-63-ıdl-Gaz-TPC-T1-00-Y,ماجد,الأمين,m,63,61-70,Gaziantepm61-70,0
+Şanlıurfa,088-c6-m-32-ham-şan-tpc-t/1-00-y,عبدالقادر ,عبدالسلام ,m,32,31-40,Şanlıurfam31-40,0
+Hatay,091-c6-m-29-ham-hat-tpc-t1-00-y,حسن,دناور,m,29,21-30,Hataym21-30,0
+Mersın,092-c1-m-30-raq-ada-tpc-t1-a0--y,عبدالله,الملا,m,30,31-40,Mersınm31-40,1
+Gaziantep,094-c1-m-32-dar-gaz-tpc-t1-a0-y,خليل,علي,m,32,31-40,Gaziantepm31-40,1
+Şanlıurfa,095-c1-m-34-dei-şan-tpc-t1-00-y,بسام,العلوش,m,34,31-40,Şanlıurfam31-40,0
+Hatay,096-c6-m-28-ham-hat-tid-t1-00-y,عبد العزيز,السويدان,m,28,21-30,Hataym21-30,0
+Hatay,097-c6-m-56-ham-hat-tid-t1-00-y,هيثم,خطاب,m,56,51-60,Hataym51-60,0
+Hatay,098-c6-m-71-ham-hat-tpc-t1-00-y,عبد الرحمن,خطاب,m,71,71-80,Hataym71-80,1
+Şanlıurfa,101-c1-m-30-hom-şan-tpc-t1-a0-y,عبد الله,عساف,m,30,31-40,Şanlıurfam31-40,0
+Gaziantep,103-c1-m-32-hom-osm-tid-t1-00-y,محمد أنس,هيكل,m,32,31-40,Gaziantepm31-40,0
+Mersın,104-c1-m-53-ale-mer-tid-t1-a0-y,أحمد,الأحمد,m,53,51-60,Mersınm51-60,0
+Hatay,106-c6-m-29-ham-hat-tpc-t1-00-y,خالد,القاسم,m,29,21-30,Hataym21-30,0
+Şanlıurfa,109-c6-m-36-ale-şan-tpc-t1-00-y,محمد صبحي,العمر,m,36,31-40,Şanlıurfam31-40,0
+Hatay,110-c6-m-34-hom-hat-tid-t1-00-y,نضال ,مبارك,m,34,31-40,Hataym31-40,1
+Gaziantep,111-c1-m-37-hom-gaz-tpc-t1-a0-y,أنس,عبدالله,m,37,31-40,Gaziantepm31-40,0
+Hatay,113-c1-m-42-Idl-hat-tpc-t1-a0-y,معتصم ,عبد الساتر,m,42,41-50,Hataym41-50,0
+Şanlıurfa,114-c4-m-51-dei-şan-tpc-t1-00-y,جعفر ,حاج قاسم ,m,51,51-60,Şanlıurfam51-60,0
+Şanlıurfa,115-c5-m-46-dei-şan-tpc-t1-00-y,عبدالستار ,العطية ,m,46,41-50,Şanlıurfam41-50,0
+Gaziantep,116-c4-m-37-Rlf-Gaz-TPC-T1-A0-Y,محمد,مرجان,m,37,31-40,Gaziantepm31-40,1
+Gaziantep,117-C5-M-38-Idl-Gaz-TPC-T1-00-Y,أكرم,زيداني,m,38,31-40,Gaziantepm31-40,0
+Gaziantep,118-c4-m-53-hom-gaz-tpc-t1a0-y,أيمن,دعاس,m,53,51-60,Gaziantepm51-60,0
+Gaziantep,119-c1-m-36-hom-gaz-tpc-t1-00-y,محمد,رمضان,m,36,31-40,Gaziantepm31-40,1
+Şanlıurfa,120-c4-m-41-dei-şan-tid-t1-00-y,احمد ,الصالح,m,41,41-50,Şanlıurfam41-50,0
+Gaziantep,121-c1-f-36-ale-gaz-tpc-t1-00-y,رحاب,المصري,f,36,31-40,Gaziantepf31-40,0
+Şanlıurfa,122-c4-m-52-has-şan-tpc-t1-00-y,حماد,الخليل,m,52,51-60,Şanlıurfam51-60,0
+Hatay,124-c4-m-43-Idl-hat-tpc-t1-00-y,وائل,السليمان,m,43,41-50,Hataym41-50,1
+Gaziantep,125-c1-f-56-ale-gaz-tpc-t1-00-y,نديمة,محمد سيد المصري,f,56,51-60,Gaziantepf51-60,0
+Gaziantep,126-c1-f-37-hom-gaz-tpc-t1-00-y,خديجة,رمضان,f,37,31-40,Gaziantepf31-40,0
+Gaziantep,127-c4-m-54-idl-gaz-tpc-t1-00-y,زكريا,هدلة,m,54,51-60,Gaziantepm51-60,1
+Hatay,128-c4-m-42-lat-hat-tpc-t1-a0-y,محمد,منى,m,42,41-50,Hataym41-50,0
+Şanlıurfa,130-c4-f-38-dei-şan-tpc-t1-00-y,امينة,الحسين,f,38,31-40,Şanlıurfaf31-40,0
+Gaziantep,132-c1-f-51-ale-gaz-tpc-t1-a0-y,فاطمة,علي,f,51,51-60,Gaziantepf51-60,0
+Gaziantep,133-c1-m-58-ale-gaz-tpc-t1-a0-y,خالد,الآغا,m,58,51-60,Gaziantepm51-60,0
+Gaziantep,134-c2-f-38-ale-gaz-tpc-t1-00-y,منال,المحمد سيد مصري,f,38,31-40,Gaziantepf31-40,1
+Gaziantep,135-c2-m-33-dar-gaz-trc-t1-00-y,علاء الدين,أبا زيد,m,33,31-40,Gaziantepm31-40,0
+Gaziantep,136-c1-f-31-dam-gaz-tid-t1-00-y,هبة,العزاوي,f,31,31-40,Gaziantepf31-40,0
+Şanlıurfa,137-C1-M-45-Dei-Şan-TID-T1-A0-Y,ياسين,الصايل,m,45,41-50,Şanlıurfam41-50,0
+Hatay,138-c1-f-54-idl-hat-tpc-t1-00-y,انتصار,طالب,f,54,51-60,Hatayf51-60,0
+Gaziantep,139-c1-m-38-rif-gaz-trc-t1-00-y,بلال,أبو اللبن,m,38,31-40,Gaziantepm31-40,0
+Mersın,140-c1-m-37-dam-mer-tpc-t1-a0-y,إبراهيم ,الكردي ,m,37,31-40,Mersınm31-40,0
+Şanlıurfa,145-C1-F-38-Raq-Şan-TPC-T1-A0-Y,مي,الحاج صالح,f,38,31-40,Şanlıurfaf31-40,1
+Gaziantep,148-c1-f-51-ale-gaz-tpc-t1-00-y,فتحية,عبدالله,f,51,51-60,Gaziantepf51-60,1
+Gaziantep,149-c1-m-52-dam-gaz-tpc-t1-a0-y,ابراهيم,العلي,m,52,51-60,Gaziantepm51-60,0
+Gaziantep,150-c1-f-50-ale-gaz-tpc-t1-00-y,ابتسام,غزال,f,50,51-60,Gaziantepf51-60,0
+Şanlıurfa,151-C1-M-31-Ira-Şan-TID-T1-00-Y,أحمد ,الموسى,m,31,31-40,Şanlıurfam31-40,0
+Gaziantep,152-c1-f-35-dei-gaz-tpc-t1-00-y,منى,العبود,f,35,31-40,Gaziantepf31-40,0
+Hatay,153-c1-f-27-hom-hat-tpc-t1-00-y,رويدا,القاسمي,f,27,21-30,Hatayf21-30,0
+Gaziantep,154-c1-f-59-ale-gaz-tpc-t1-00-y,فاطمة,حاج عثمان,f,59,51-60,Gaziantepf51-60,0
+Gaziantep,158-c8-f-55-dar-gaz-trc-t1-00-y,فاطمة,الحريري,f,55,51-60,Gaziantepf51-60,0
+Gaziantep,158-c8-m-39-rlf-gaz-tpc-t1-00-y,منصور,الصيني,m,39,31-40,Gaziantepm31-40,0
+Gaziantep,160-c1-m-36-dam-gaz-tpc-t1-a0-y,محمود,السبيني,m,36,31-40,Gaziantepm31-40,0
+Gaziantep,162-c8-f-42-ale-gaz-tpc-t1-00-y,ايمان,قاسم,f,42,41-50,Gaziantepf41-50,0
+Gaziantep,163-c1-m-35-ale-gaz-tpc-t1-00-y,محمد زكريا,جعبري,m,35,31-40,Gaziantepm31-40,0
+Mersın,165-c4-m-39-hom-mer-tid-t1-00-y,حسن,العليوي,m,39,31-40,Mersınm31-40,0
+Hatay,166-c4-m-37-ham-hat-tid-t1-00-y,منهل,الشيخ حامد ,m,37,31-40,Hataym31-40,0
+Gaziantep,167-c4-m-42-ale-gaz-tpc-t1-00-y,محمد طريف,عبدالله حمدو,m,42,41-50,Gaziantepm41-50,0
+Şanlıurfa,168-c5-f-52-dei-şan-tpc-t1-00-y,غزوة,الهندواي,f,52,51-60,Şanlıurfaf51-60,1
+Şanlıurfa,169-C1-F-49-Dei-Şan-TPC-T1-A0-Y,ميديا,العبدالله,f,49,41-50,Şanlıurfaf41-50,0
+Hatay,171-c4-m-62-ham-hat-tid-t1-00-y,شايش,الطيار ,m,62,61-70,Hataym61-70,0
+Hatay,172-c4-m-33-ale-hat-tid-t1-a0-y,عماد,أبو راس,m,33,31-40,Hataym31-40,0
+Şanlıurfa,173-c4-m-32-ale-şan-tpc-t1-00-y,احمد ,جولاق,m,32,31-40,Şanlıurfam31-40,0
+Hatay,176-c5-m-72-ham-hat-tpc-t1-00-y,خيرو ,الأطرش ,m,72,71-80,Hataym71-80,0
+Şanlıurfa,177-c5-m-51-dei-şan-tpc-t1-00-y,عبدالكريم ,الوردي,m,51,51-60,Şanlıurfam51-60,0
+Hatay,178-c1-f-37-lat-hat-tpc-t1-00-y,منى,فارس,f,37,31-40,Hatayf31-40,1
+Hatay,180-c1-m-55-lat-hat-tpc-t1-00-y,مصطفى ,منى,m,55,51-60,Hataym51-60,0
+Hatay,181-C1-F-35-Ale-Hat-TPC-T1-A0-Y,صبا,عتقي,f,35,31-40,Hatayf31-40,0
+Gaziantep,182-c3-m-38-dei-gaz-tpc-t1-a0-y,محمد,الضويحي,m,38,31-40,Gaziantepm31-40,0
+Hatay,183-c3-m-33-lat-hat-tpc-t1-00-y,ايهاب,السبع,m,33,31-40,Hataym31-40,0
+Hatay,184-c3-m-40-hom-hat-tpc-t1-00-y,مهند,الخالد,m,40,41-50,Hataym41-50,0
+Gaziantep,185-c5-m-34-ale-gaz-tpc-t1-a0-y,محمد,السلامة,m,34,31-40,Gaziantepm31-40,0
+Hatay,186-c3-m-37-hom-hat-tpc-t1-a0-y,عبدالرحمن,الجواش,m,37,31-40,Hataym31-40,0
+Hatay,187-c5-m-45-idl-hat-tpc-t1-00-y,معتز,عصفور,m,45,41-50,Hataym41-50,0
+Gaziantep,188-c4-m-32-ale-kil-tpc-t1-00-y,عبد الله الجمعة,عبد الله,m,32,31-40,Gaziantepm31-40,0
+Hatay,189-c1-f-43-rlf-hat-tpc-t1-a0-y,رفيدة,زيتون,f,43,41-50,Hatayf41-50,0
+Hatay,190-c2-m-44-ksa-hat-tpc-t1-a0-y,جهاد,عز الدين,m,44,41-50,Hataym41-50,0
+Hatay,191-c3-m-38-hom-hat-tpc-t1-a0-y,حمزة,جمعة,m,38,31-40,Hataym31-40,1
+Mersın,192-C1-M-58-Idl-Mer-TPC-T1-00-Y,مصطفى,نعنع,m,58,51-60,Mersınm51-60,0
+Hatay,193-c8-m-30-idl-hat-tpc-t1-00-y,مأمون ,عصفور ,m,30,31-40,Hataym31-40,1
+Hatay,194-c4-m-55-hom-hat-tpc-t1-00-y,فيصل,النجار ,m,55,51-60,Hataym51-60,0
+Şanlıurfa,195-c5-m-45-dei-şan-tid-t1-a0-y,عبدالله,الشمري,m,45,41-50,Şanlıurfam41-50,0
+Hatay,196-c1-m-62-idl-hat-tid-t1-00-y,عبد المعطي ,يونسو ,m,62,61-70,Hataym61-70,0
+Hatay,197-c3-m-27-lat-hat-tpc-t1-a0-y,عماد,بكداش,m,27,21-30,Hataym21-30,0
+Mersın,199-c2-m-35-hom-mer-trc-t1-00-y,غازي ,السليمان,m,35,31-40,Mersınm31-40,0
+Şanlıurfa,201-c5-m-31-has-şan-tpc-t1-a0-y,حسام الدين,داوود,m,31,31-40,Şanlıurfam31-40,0
+Hatay,204-c4-f-37-ale-hat-tpc-t1-00-y,عائدة,علي,f,37,31-40,Hatayf31-40,1
+Hatay,205-c3-f-44-idl-hat-tpc-t1-00-y,فدوى,الجاسم,f,44,41-50,Hatayf41-50,0
+Hatay,207-c4-m-49-ale-hat-tpc-t1-00-y,حسام,جدوع,m,49,41-50,Hataym41-50,0
+Hatay,209-c1-m-60-lat-hat-tpc-t1-a0-y,نبيل,اندرون,m,60,61-70,Hataym61-70,0
+Gaziantep,210-c8-m-59-lat-kah-tpc-t1-at-y,يقظان,فاتح,m,59,51-60,Gaziantepm51-60,0
+Hatay,211-c3-m-55-idl-hat-tpc-t1-00-y,ماجد,حج سليمان,m,55,51-60,Hataym51-60,0
+Hatay,212-c5-m-32-idl-hat-tpc-t1-a0-y,عبيدة,حاج حمادة,m,32,31-40,Hataym31-40,0
+Gaziantep,213-c8-m-27-hom-gaz-tpc-t1-00-y,رياض,الحمد,m,27,21-30,Gaziantepm21-30,0
+Gaziantep,214-c5-m-34-rlf-gaz-tid-t1-00-y,محمد,ناموس,m,34,31-40,Gaziantepm31-40,1
+Hatay,215-c4-m-57-ham-hat-tpc-t1-00-y,مصعب,الحمود,m,57,51-60,Hataym51-60,0
+Gaziantep,217-c5-m-33-hom-gaz-tpc-t1-a0-y,هاني,عكيدي,m,33,31-40,Gaziantepm31-40,0
+Şanlıurfa,218-c4-m-37-ale-şan-tpc-t1-a0-y,أحمد ,بكري حميدو,m,37,31-40,Şanlıurfam31-40,0
+Şanlıurfa,219-c5-m-28-hom-şam-tpc-t1-a0-y,خالد,الشريدي,m,28,21-30,Şanlıurfam21-30,1
+Hatay,220-c4-m-30-ale-hat-tid-t1-00-y,محمد,عثمان اوغلو,m,30,31-40,Hataym31-40,0
+Hatay,221-c4-f-28-jor-hat-tpc-t1-a0-y,بسمة,منصور,f,28,21-30,Hatayf21-30,0
+Hatay,222-c5-f-78-dam-hat-tpc-t1-00-y,هيام,رمضان,f,78,71-80,Hatayf71-80,0
+Hatay,223-c4-f-42-ham-hat-tpc-t1-00-y,رنا,خباص,f,42,41-50,Hatayf41-50,0
+Hatay,224-c8-m-35-hom-hat-tid-t1-at-y,أيمن,محميد,m,35,31-40,Hataym31-40,0
+Hatay,225-c4-f-36-hom-hat-tpc-t1-a0-y,رانيا,زعرور,f,36,31-40,Hatayf31-40,0
+Hatay,226-c4-m-52-lat-hat-tpc-t1-00-y,ADNAN,ARKAWI,m,52,51-60,Hataym51-60,0
+Hatay,228-c4-f-27-rif-hat-tpc-t1-00-y,هبة ,سيبي,f,27,21-30,Hatayf21-30,0
+Hatay,229-c4-f-32-lat-hat-tpc-t1-a0-y,آلاء,مورللي,f,32,31-40,Hatayf31-40,0
+Hatay,231-c5-f-56-ale-hat-tid-t1-00-y,منى,عثمان اوغلو,f,56,51-60,Hatayf51-60,0
+Hatay,233-c3-f-44-lat-hat-tpc-t1-a0-y,ماجدة ,محمود,f,44,41-50,Hatayf41-50,0
+Şanlıurfa,241-c8-m-50-rlf-şan-tpc-t1-00-y,طلال,ابو شنب,m,50,51-60,Şanlıurfam51-60,0
+Hatay,245-c2-m-67-ale-hat-tid-t1-00-y,هشام,سويد,m,67,61-70,Hataym61-70,0
+Hatay,247-c2-m-39-ham-hat-tpc-t1-00-y,زاهر,عدي,m,39,31-40,Hataym31-40,0
+Gaziantep,248-c4-m-34-dam-gaz-tpc-t1-00-y, يامن ,حسن,m,34,31-40,Gaziantepm31-40,0
+Gaziantep,252-c4-m-49-dam-gaz-tpc-t1-00-y,معتز ,بكران ,m,49,41-50,Gaziantepm41-50,0
+Şanlıurfa,254-c4-m-49-hom-şan-tpc-t1-00-y,وليد,الراجح ,m,49,41-50,Şanlıurfam41-50,0
+Hatay,255-c3-f-31-ale-hat-tid-t1-a0-y,ايمان,سويد,f,31,31-40,Hatayf31-40,0
+Şanlıurfa,256-c3-f-47-ale-şan-tid-t1-a0-y,علياء,الناصر,f,47,41-50,Şanlıurfaf41-50,0
+Şanlıurfa,257-c3-f-55-has-şan-tpc-t1-a0-y,منتهى,الشلاش العبيد ,f,55,51-60,Şanlıurfaf51-60,0
+Şanlıurfa,258-c3-f-31-dei-şan-tpc-t1-a0-y,إسراء ,الظريفي,f,31,31-40,Şanlıurfaf31-40,0
+Şanlıurfa,260-c3-f-46-dei-şan-tpc-t1-00-y,ناهدة ,العواك,f,46,41-50,Şanlıurfaf41-50,0
+Şanlıurfa,261-c2-m-57-dei-şan-tpc-t1-00-y,بدر,الشبلي,m,57,51-60,Şanlıurfam51-60,0
+Hatay,262-c5-f-40-hom-hat-tpc-t1-a0-y,نورية ,الكحيل,f,40,41-50,Hatayf41-50,0
+Hatay,263-c5-f-37-hom-hat-tid-t1-a0-y,رقية ,العبيد,f,37,31-40,Hatayf31-40,0
+Şanlıurfa,265-c5-m-35-raq-şan-tpc-t1-00-y,احمد,البهلول,m,35,31-40,Şanlıurfam31-40,0
+Şanlıurfa,266-c3-f-58-ale-şan-tid-t1-00-y,سعاد,الناصر,f,58,51-60,Şanlıurfaf51-60,0
+Şanlıurfa,267-c5-m-31-raq-şan-tid-t1-a0-y,علي,الكتاب,m,31,31-40,Şanlıurfam31-40,0
+Şanlıurfa,269-c8-f-48-dar-şan-tpc-t1-00-y,حنان,ابو صافي,f,48,41-50,Şanlıurfaf41-50,0
+Gaziantep,270-c2-m-44-rif-gaz-tpc-t1-00-y,أحمد,الصيني,m,44,41-50,Gaziantepm41-50,0
+Şanlıurfa,271-c8-f-71-dei-şan-tpc-t1-a0-y,نجاح,الخلف,f,71,71-80,Şanlıurfaf71-80,0
+Şanlıurfa,272-c3-f-56-dei-şan-tpc-t1-00-y,شذى,المضحي,f,56,51-60,Şanlıurfaf51-60,0
+Hatay,273-c5-m-51-idl- hat- tpc-t1-00-y,محمد,عجيني,m,51,51-60,Hataym51-60,0
+Şanlıurfa,274-c4-m-38-raq-şan-tpc-t1-00 -y,عبدالرحمان,محمد,m,38,31-40,Şanlıurfam31-40,0
+Gaziantep,275-c4-m-45-ale-gaz-non-t1-00-y,حسان ,عكوش ,m,45,41-50,Gaziantepm41-50,0
+Mersın,276-c4-m-33-hom-mer-tpc-t1-a0-y,ماهر,زيتون ,m,33,31-40,Mersınm31-40,1
+Şanlıurfa,278-c4-f-45-dei-şan-tpc-t1-a0-y,إيمان ,الدرام,f,45,41-50,Şanlıurfaf41-50,0
+Şanlıurfa,279-c2-M-54-raq-şan-tid-t1-00-y,احمد,العلي,m,54,51-60,Şanlıurfam51-60,0
+Şanlıurfa,280-c4-f-41-dei-şan-tpc-t1-00-y,آمنة,الفرحان,f,41,41-50,Şanlıurfaf41-50,0
+Şanlıurfa,281-c4-m-27-dar-şan-tpc-t1-a0-y,عبد الله,القرقعي,m,27,21-30,Şanlıurfam21-30,1
+Şanlıurfa,284-c4-f-42-lat-şan-tpc-t1-00-y,منال,مليتوت,f,42,41-50,Şanlıurfaf41-50,0
+Gaziantep,287-c4-f-38-ale-gaz-tpc-t1-00-y,فطيم,البكري,f,38,31-40,Gaziantepf31-40,0
+Şanlıurfa,288-c4-m-62-dei-şan-tpc-t1-00-y,اياد,علوش,m,62,61-70,Şanlıurfam61-70,0
+Şanlıurfa,289-c4-m-27-raq-şan-tpc-t1-00-y,احمد ,السلطان,m,27,21-30,Şanlıurfam21-30,0
+Hatay,291-c4-m-51-hom-hat-tpc-t1-00-y,عمر,جمول,m,51,51-60,Hataym51-60,0
+Hatay,292-c4-m-45-hom-hat-tid-t1-a0-y,ياسر ,العبيد,m,45,41-50,Hataym41-50,0
+Şanlıurfa,293-c5-m-36-dei-şan-tpc-t1-00-y,حسن,الخلف,m,36,31-40,Şanlıurfam31-40,0
+Şanlıurfa,294-c1-f-47-dam-şan-tpc-t1-a0-y,أمينة,الجلالي,f,47,41-50,Şanlıurfaf41-50,0
+Hatay,295-c1-m-45-idl-hat-tpc-t1-a0-y,مصعب,زرزوري,m,45,41-50,Hataym41-50,0
+Şanlıurfa,296-c1-f-41-dam-şan-tpc-t1-00-y,دلال,عبد العال,f,41,41-50,Şanlıurfaf41-50,1
+Şanlıurfa,297-c1-m-44-dam-şan-tpc-t1-a0-y,محمد,عباس الحميش,m,44,41-50,Şanlıurfam41-50,0
+Gaziantep,298-c1-m-53-hom-gaz-tpc-t1-00-y,محمود,المحمد,m,53,51-60,Gaziantepm51-60,0
+Mersın,300-c1-f-49-idl-mer-tpc-t1-00-y,نسوب ,حمود ,f,49,41-50,Mersınf41-50,0
+Mersın,301-c3-f-41-ale-mer-tpc-t1-00-y,عبير,محمد,f,41,41-50,Mersınf41-50,0
+Mersın,302-c3-f-48-hom-mer-tpc-t1-00-y,نجاح,غريب,f,48,41-50,Mersınf41-50,0
+Mersın,303-c3-f-50-ham-mer-tpc-t1-00-y,إلهام ,حجازي,f,50,51-60,Mersınf51-60,0
+Gaziantep,304-C3-M-34-Dei-Gaz-TRC-T1-00-Y,أحمد,الجوري,m,34,31-40,Gaziantepm31-40,0
+Gaziantep,305-c3-m-30-Idl-gaz-tpc-t1-00-y,غياث,زنكيح,m,30,31-40,Gaziantepm31-40,0
+Hatay,306-c3-f-74-idl-hat-tpc-t1-00-y,مطيعة,حللي,f,74,71-80,Hatayf71-80,0
+Mersın,307-c3-f-38-dam-mer-tpc-t1-a0-y,سليمى,شاكر,f,38,31-40,Mersınf31-40,0
+Gaziantep,308-c3-m-41-hom-gaz-tpc-t1-00-y,محمد طارق,الطباع,m,41,41-50,Gaziantepm41-50,0
+Mersın,310-c3-f-34-dam-mer-tpc-t1-a0-y,سوسن,دالاتي ,f,34,31-40,Mersınf31-40,0
+Mersın,311-c3-f-51-lat-mer-tpc-t1-00-y,رنا,سالوخة,f,51,51-60,Mersınf51-60,0
+Mersın,312-c3-f-31-hom-mer-tpc-t1-00-y,ألاء ,شندين,f,31,31-40,Mersınf31-40,0
+Gaziantep,313-c4-m-60-Idl-gaz-tpc-t1-00-y,فؤاد,الشغري,m,60,61-70,Gaziantepm61-70,0
+Şanlıurfa,314-c4-f-26-dei-şan-tpc-t1-a0-y,حلا,الخلف,f,26,21-30,Şanlıurfaf21-30,0
+Şanlıurfa,315-c4-f-47-dei-şan-tpc-t1-00-y,وردة,الدغيم,f,47,41-50,Şanlıurfaf41-50,1
+Şanlıurfa,316-c4-f-27-ale-şan-tpc-t1-a0-y,خلود,السعيد,f,27,21-30,Şanlıurfaf21-30,0
+Şanlıurfa,317-c4-f-46-rif-şan-tid-t1-a0-y,هدى,مخيبر,f,46,41-50,Şanlıurfaf41-50,0
+Gaziantep,318-c4-m-43-dam-gaz-tpc-t1-a0-y,محمود,الرفاعي,m,43,41-50,Gaziantepm41-50,1
+Hatay,320-c4-f-52-ham-hat-tpc-t1-a0-y,رجاء,البصير,f,52,51-60,Hatayf51-60,1
+Şanlıurfa,321-c4-m-44-raq-şan-tid-t1-00-y,جاسم,المصطو,m,44,41-50,Şanlıurfam41-50,0
+Hatay,322-c3-m-70-ale-hat-tpc-t1-00-y,برهان,مكانسي,m,70,71-80,Hataym71-80,0
+Gaziantep,323-c4-f-21-dar-gaz-tpc-t1-00-y,آيات,علو,f,21,21-30,Gaziantepf21-30,0
+Hatay,324-c3-f-42-ale-hat-tpc-t1-00-y,فاطمة,الحمد,f,42,41-50,Hatayf41-50,0
+Gaziantep,326-c3-f-46-dam-gaz-tpc-t1-00-y,فاديا,السويداني,f,46,41-50,Gaziantepf41-50,0
+Şanlıurfa,327-c3-m-59-raq-şan-tpc-t1-00-y,اسماعيل,الابراهيم,m,59,51-60,Şanlıurfam51-60,0
+Şanlıurfa,328-c8-f-52-dei-şan-tid-t1-00-y,ضحى ,جاسم,f,52,51-60,Şanlıurfaf51-60,0
+Şanlıurfa,329-c3-m-69-ale-şan-tid-t1-a0-y,عبد الإله ,حميدي,m,69,61-70,Şanlıurfam61-70,0
+Şanlıurfa,330-c3-m-44-raq-şan-tpc-t1-00-y,محمد,الشطي,m,44,41-50,Şanlıurfam41-50,0
+Şanlıurfa,331-C8-F-41-Dei-Şan-TRC-T1-A0-Y,كوثر,العبادي,f,41,41-50,Şanlıurfaf41-50,0
+Mersın,332-c8-f-35-ale-mer-tpc-t1-00-y,أماني,عموري,f,35,31-40,Mersınf31-40,0
+Gaziantep,334-c1-m-26-dam-gaz-tpc-t1-a0-y,محمد,الغباري,m,26,21-30,Gaziantepm21-30,0
+Şanlıurfa,335-c4-m-48-raq-şan-tid-t1-a0-y,مصطفى ,شيخ ,m,48,41-50,Şanlıurfam41-50,0
+Gaziantep,336-c4-f-31-dam-osm-tpc-t1-a0-y,ولاء,الخطيب,f,31,31-40,Gaziantepf31-40,0
+Hatay,337-c4-m-47-ham-hat-tpc-t1-00-y,فادي,قاسم أغا,m,47,41-50,Hataym41-50,1
+Gaziantep,338-c4-f-45-Qun-osm-Tpc-t1-a0-y,انعام,الديب,f,45,41-50,Gaziantepf41-50,0
+Hatay,339-c4-m-34-lat-hat-tpc-t1-00-y,ياسر,شيخ أحمد ,m,34,31-40,Hataym31-40,0
+Hatay,340-c4-m-33-lat-hat-tid-t1-a0-y,هشام,قدور,m,33,31-40,Hataym31-40,0
+Mersın,341-c4-m-33-idl-ada-tpc-t1-00-y,مازن ,خلف,m,33,31-40,Mersınm31-40,0
+Şanlıurfa,342-c4-m-30-raq-şan-tpc-t1-00-y,علاء,سلطان,m,30,31-40,Şanlıurfam31-40,1
+Hatay,343-c4-f-61-hom-hat-tpc-t1-a0-y,حميدة ,الخليف,f,61,61-70,Hatayf61-70,0
+Hatay,345-c4-f-58-rif-hat-tpc-t1-00-y,عفاف,يوسف,f,58,51-60,Hatayf51-60,0
+Hatay,346-c4-f-30-dam-hat-tpc-t1-a0-y,آلاء,الشاطر,f,30,31-40,Hatayf31-40,0
+Hatay,348-c4-m-39-hom-hat-tid- t1-00-y,عبد الكريم,صبوح,m,39,31-40,Hataym31-40,0
+Mersın,"349-c4-f-37-rif-mer-tpc-t1-00-y
+",منار ,جابر ,f,37,31-40,Mersınf31-40,0
+Şanlıurfa,350-c5-m-39-dam-şan-tpc-t1-00-y,درغام,العياد,m,39,31-40,Şanlıurfam31-40,0
+Şanlıurfa,351-c5-m-41-raq-şan-tid-t1-00-y,Ali,Elçin,m,41,41-50,Şanlıurfam41-50,0
+Gaziantep,352-c5-m-27-ale-gaz-tpc-t1-00-y,محمد,الشريف,m,27,21-30,Gaziantepm21-30,0
+Hatay,353-c5-f-50-dam-hat-tid-t1-00-y,فدوى,زينة رشيد,f,50,51-60,Hatayf51-60,0
+Hatay,354-C5-F-46-Dam-Gaz-TPC-T1-00-Y,أمل,السلامات,f,46,41-50,Hatayf41-50,0
+Şanlıurfa,357-c4-f-26-dei-şan-tpc-t1-00-y,صفا,التركي,f,26,21-30,Şanlıurfaf21-30,0
+Hatay,359-c4-m-40-idl-hat-tpc-t1-a0-y,هاني,برد,m,40,41-50,Hataym41-50,0
+Mersın,360-c3-f-45-ale-mer-tpc-t1-00-y,خديجة,رمو,f,45,41-50,Mersınf41-50,0
+Mersın,361-C1-F-49-Ale-Mer-TID-T1-00-Y,ضحى ,جوندوز,f,49,41-50,Mersınf41-50,0
+Hatay,362-c2-f-41-ale-hat-tpc-t1-a0-y,سوسن,لطوف,f,41,41-50,Hatayf41-50,0
+Şanlıurfa,364-c2-m-75-dei-şan-tpc-t1-00-y,أسعد ,قنبر,m,75,71-80,Şanlıurfam71-80,0
+Mersın,365-c2-f-49-rlf-mer-tpc-t1-A0-y,ملك ,الدالاتي,f,49,41-50,Mersınf41-50,1
+Şanlıurfa,366-c4-f-45-dei-şan-tpc-t1-00-y,ريم,العواد,f,45,41-50,Şanlıurfaf41-50,0
+Şanlıurfa,367-c2-m-54-dei-şan-tid-t1-a0-y,خالد ,المرزوق ,m,54,51-60,Şanlıurfam51-60,0
+Şanlıurfa,368-c5-m-35-dam-şan-tpc-t1-00-y,محمد زاهر,عبد العال,m,35,31-40,Şanlıurfam31-40,1
+Mersın,369-c3-f-36-ham-mer-tpc-t1-00-y,أمينة ,سالم ,f,36,31-40,Mersınf31-40,1
+Şanlıurfa,370-c5-f-28-dei-şan-tpc-t1-00-y,أميرة,العبادي,f,28,21-30,Şanlıurfaf21-30,0
+Şanlıurfa,371-c4-m-51-raq-şan-tid-t1-00-y,أنس,العوف,m,51,51-60,Şanlıurfam51-60,0
+Hatay,372-c4-f-38-ham-hat-tpc-t1-a0-y,نشيدة,دياب,f,38,31-40,Hatayf31-40,0
+Gaziantep,374-c3-f-46-Ale-kah-tpc-t1-00-y,رجاء,العجم,f,46,41-50,Gaziantepf41-50,1
+Şanlıurfa,375-c4-m-33-dei-şan-tpc-t1-00-y,محمود,حمادة,m,33,31-40,Şanlıurfam31-40,0
+Hatay,376-c5-f-47-ham-hat-tpc-t1-00-y,سهام,صيرفي,f,47,41-50,Hatayf41-50,1
+Hatay,377-c5-m-57-idl-hat-tpc-t1-00-y,بسام,نداف,m,57,51-60,Hataym51-60,0
+Şanlıurfa,379-c5-m-40-dei-şan-tpc-t1-00-y,احمد,الحمادة,m,40,41-50,Şanlıurfam41-50,0
+Gaziantep,380-c1-f-43-dar-gaz-tpc-t1-00-y,فاتن,أبو نقطة,f,43,41-50,Gaziantepf41-50,0
+Şanlıurfa,382-c4-m-52-dam-şan-tpc-t1-00-y,مظهر,زمزم,m,52,51-60,Şanlıurfam51-60,0
+Şanlıurfa,383-c4-m-64-dei-şan-tpc-t1-00-y,ابراهيم,جنيد,m,64,61-70,Şanlıurfam61-70,1
+Gaziantep,384-c4-m-29-dam-gaz-tpc-t1-00-y,طه,البوشي (خربطلو حاليا بعد الجنسية),m,29,21-30,Gaziantepm21-30,0
+Şanlıurfa,385-c4-m-49-dei-şan-tpc-t1-00-y,يوسف ,حاج خضر ,m,49,41-50,Şanlıurfam41-50,0
+Şanlıurfa,386-c4-m-31-raq-şan-tpc-t1-00-y,اسماعيل ,السلطان ,m,31,31-40,Şanlıurfam31-40,0
+Hatay,387-c4-f-59-lat-hat-tpc-t1-00-y,وفاء,طوزان,f,59,51-60,Hatayf51-60,0
+Şanlıurfa,388-c5-m-30-dei-şan-tpc-t1-00-y,عبدالكريم ,المروح,m,30,31-40,Şanlıurfam31-40,0
+Şanlıurfa,389-c5-m-50-dei-şan-tid-t1-00-y,حسن,البري,m,50,51-60,Şanlıurfam51-60,0
+Hatay,390-c5-m-41-hom-hat-tpc-t1-00-y,خالد,المطلق,m,41,41-50,Hataym41-50,0
+Hatay,391-c5-m-27-lat-hat-tid-t1-00-y,لؤي,قدور,m,27,21-30,Hataym21-30,0
+Şanlıurfa,393-c2-m-49-raq-şan-tid-t1-00-y,Abdulrezzak,Elibrahim,m,49,41-50,Şanlıurfam41-50,0
+Şanlıurfa,395-c1-f-37-dam-şan-tpc-t1-a0-y,HANADİ,HUSSAİN,f,37,31-40,Şanlıurfaf31-40,0
+Gaziantep,398-c1-f-28-gaz-tpc-t1-00-y,مديحة,فتوح,f,28,21-30,Gaziantepf21-30,0
+Hatay,399-c1-m-34-ale-hat-tid-t1-a0-y,كنعان,محمد,m,34,31-40,Hataym31-40,0
+Hatay,401-c1-f-42-dei-hat-tpc-t1-a0-y,فريدة,استيفان,f,42,41-50,Hatayf41-50,1
+Hatay,403-c1-f-32-lat-hat-tpc-t1-00-y,سارة,إسفنجة,f,32,31-40,Hatayf31-40,0
+Şanlıurfa,404-c3-m-45-dei-şan-tpc-t1-00-y,خالد,العيسى,m,45,41-50,Şanlıurfam41-50,0
+Şanlıurfa,405-c3-f-65-dei-şan-tpc-t1-00-y,شهباء,المرعي,f,65,61-70,Şanlıurfaf61-70,0
+Şanlıurfa,406-c3-f-27-raq-şan-tid-t1-00-y,انسام,الخزام,f,27,21-30,Şanlıurfaf21-30,0
+Gaziantep,407-c3-f-31-dam-gaz-tpc-t1-00-y,رهام,الحبال,f,31,31-40,Gaziantepf31-40,1
+Gaziantep,408-c3-m-31-ham-gaz-tid-t1-00-y,محمد,الخالد,m,31,31-40,Gaziantepm31-40,0
+Gaziantep,409-c3-f-32-dam-gaz-tpc-t1-a0-y,خديجة,الزيدلاني,f,32,31-40,Gaziantepf31-40,0
+Gaziantep,411-c3-m-41-dam-gaz-tpc-t1-00-y,   عاصم,الخاني ,m,41,41-50,Gaziantepm41-50,0
+Şanlıurfa,412-c3-m-46-dei-şan-tpc-t1-a0-y,مناف,السيد,m,46,41-50,Şanlıurfam41-50,1
+Mersın,414-c4-m-38-lat-mer-tpc-t1-a0-y,محمد ,منا ,m,38,31-40,Mersınm31-40,0
+Şanlıurfa,415-c4-m-51-dam-şan-tpc-t1-00-y,عمر,الخلف,m,51,51-60,Şanlıurfam51-60,0
+Hatay,416-c4-m-39-ham-hat-tpc-t1-00-y,غالب,الخالد ,m,39,31-40,Hataym31-40,0
+Hatay,417-c4-m-40-idl-hat-tpc-t1-00-y,مصطفى ,استانبولية,m,40,41-50,Hataym41-50,0
+Mersın,418-c5-m-37-hom-ada-tpc-t1-00-y,محمد,كويدر,m,37,31-40,Mersınm31-40,0
+Gaziantep,419-c4-m-32-rif-gaz-tpc-t1-00-y,ابراهيم,عباس,m,32,31-40,Gaziantepm31-40,0
+Gaziantep,420-c5-f-46-dar-gaz-tpc-t1-00-y,نهلة,أبو إصبع,f,46,41-50,Gaziantepf41-50,0
+Şanlıurfa,421-c4-m-51-dei-şan-tpc-t1-a1-y,يعرب ,الخاطر,m,51,51-60,Şanlıurfam51-60,0
+Hatay,422-c5-f-61-ham-hat-tpc-t1-00-y,مها,الشامي,f,61,61-70,Hatayf61-70,0
+Şanlıurfa,423-c4-m-46-ksa-şan-tpc-t1-00-y,أمجد ,الجاسم,m,46,41-50,Şanlıurfam41-50,0
+Gaziantep,424-c4-m-42-dei-gaz-tpc-t1-00-y,بلال,الخلف,m,42,41-50,Gaziantepm41-50,0
+Hatay,426-C5-F-31-Lat-Hat-TPC-T1-00-Y,سهام,شعبان,f,31,31-40,Hatayf31-40,0
+Şanlıurfa,427-C5-M-24-Dei-Ist-TPC-T1-00-Y,تيسير,كردوش,m,24,21-30,Şanlıurfam21-30,0
+Gaziantep,428-c4-m-33-Idl-gaz-tpc-t1-a0-y,نذير,وتي,m,33,31-40,Gaziantepm31-40,1
+Şanlıurfa,429-c1-m-31-dei-şan-tpc-t1-00-y,ZİYAEDDİN,HADİDİ,m,31,31-40,Şanlıurfam31-40,0
+Şanlıurfa,430-c4-m-42-dei-şan-tpc-t1-00-y,أنس,بهلول,m,42,41-50,Şanlıurfam41-50,0
+Mersın,431-c4-m-57-lat-mer-tpc-t1-a0-y,نعمان,زريق,m,57,51-60,Mersınm51-60,0
+Şanlıurfa,432-C5-M-42-Dei-Mar-TPC-T1-00-Y,وحيد,العلي,m,42,41-50,Şanlıurfam41-50,0
+Gaziantep,433-c1-m-45-ale-gaz-tid-t1-a0-y,محمد ياسر,مولوي,m,45,41-50,Gaziantepm41-50,0
+Gaziantep,434-c5-m-34-dei-gaz-tpc-t1-00-y,عمر,السلامة,m,34,31-40,Gaziantepm31-40,0
+Şanlıurfa,436-C5-M-40-Dei-Ist-TPC-T1-00-Y,سلمان,الشاهر,m,40,41-50,Şanlıurfam41-50,0
+Şanlıurfa,437-c4-m-36-dei-şan-tpc-t1-a0-y,لؤي,علوش,m,36,31-40,Şanlıurfam31-40,1
+Gaziantep,438-c4-m-28-dam-gaz-tid-t1-00-y,ياسين,طهاوي,m,28,21-30,Gaziantepm21-30,0
+Gaziantep,439-c8-f-37-ale-gaz-tpc-t1-a0-y,دلال,الجادر,f,37,31-40,Gaziantepf31-40,0
+Gaziantep,440-c4-m-36-ksa-gaz-tpc-t1-00-y,أنس,بربور,m,36,31-40,Gaziantepm31-40,0
+Şanlıurfa,441-c4-f-47-dei-şan-tpc-t1-00-y,خنس,الخلف,f,47,41-50,Şanlıurfaf41-50,0
+Gaziantep,443-c5-f-33-dam-gaz-tpc-t1-00-y,ربى,قطشة,f,33,31-40,Gaziantepf31-40,0
+Mersın,444-c5-m-30-lat-mer-tpc-t1-00-y,المنذر,عكو,m,30,31-40,Mersınm31-40,0
+Şanlıurfa,445-C5-F-28-RIf-Mar-TPC-T1-00-Y,بيان,الملاح,f,28,21-30,Şanlıurfaf21-30,0
+Şanlıurfa,446-c4-m-31-dei-şan-tpc-t1-a0-y,أحمد ,الهزاع,m,31,31-40,Şanlıurfam31-40,0
+Şanlıurfa,447-c4-m-32-dei-şan-tpc-t1-a0-y,محمد ,المصطفى ,m,32,31-40,Şanlıurfam31-40,0
+Hatay,448-c5-f-48-ksa-hat-tpc-t1-a0-y,سحر,دخان,f,48,41-50,Hatayf41-50,0
+Şanlıurfa,449-c3-m-34-dei-şan-tpc-t1-00-y,فهد,الحسين,m,34,31-40,Şanlıurfam31-40,0
+Şanlıurfa,450-c3-f-55-dei-şan-tid-t1-a0-y,فاطمة ,عزيزي,f,55,51-60,Şanlıurfaf51-60,0
+Gaziantep,451-c4-m-37-Idl-kah-tpc-t1-a0-y,بشير,العبده,m,37,31-40,Gaziantepm31-40,0
+Hatay,453-c4-m-40-ham-hat-tid-t1-00-y,تاج الدين,الاعرج,m,40,41-50,Hataym41-50,0
+Şanlıurfa,454-c4-f-51-dam-şan-tpc-t1-00-y,نجاة,اسماعيل,m,51,51-60,Şanlıurfam51-60,0
+Hatay,456-c4-m-34-lat-hat-tpc-t1-a0-y,عبد الهادي,نجار,m,34,31-40,Hataym31-40,0
+Hatay,457-c4-m-60-lat-hat-tpc-t1-00-y,أسامة ,حجارين ,m,60,61-70,Hataym61-70,0
+Gaziantep,458-c4-f-33-dam-gaz-trc-t1-a0-y,مجد,مراد,f,33,31-40,Gaziantepf31-40,0
+Şanlıurfa,459-c4-m-31-dei-şan-non-t1-a0-y,أحمد,المحمد,m,31,31-40,Şanlıurfam31-40,1
+Gaziantep,460-c4-m-34-dei-gaz-tpc-t1-00-y,عبد القادر,بهلول,m,34,31-40,Gaziantepm31-40,0
+Şanlıurfa,461-c5-m-39-raq-şan-tpc-t1-00-y,محمد ,الكتاب,m,39,31-40,Şanlıurfam31-40,0
+Gaziantep,464-C4-M-36-Ale-Kil-TPC-T1-00-Y,إبراهيم,بهلول,m,36,31-40,Gaziantepm31-40,0
+Şanlıurfa,465-c5-m-27-dei-şan-tpc-t1-00-y,حمود,الحصني,m,27,21-30,Şanlıurfam21-30,0
+Gaziantep,466-c4-m-36-dam-gaz-tpc-t1-a0-y,عدي,عساف,m,36,31-40,Gaziantepm31-40,0
+Gaziantep,467-c1-m-48-dei-gaz-tpc-t1-a0-y,زكريا,محمد الجرو,m,48,41-50,Gaziantepm41-50,0
+Mersın,468-c1-f-40-dam-mer-tpc-t1-00-y,فيحاء,حنطاية,f,40,41-50,Mersınf41-50,0
+Gaziantep,470-c1-m-25-idl-gaz-tid-t1-00-y,عبدالعزيز,بيطار,m,25,21-30,Gaziantepm21-30,0
+Şanlıurfa,471-c1-f-35-dei-şan-tid-t1-a0-y,حلا,الحاج هزاع,f,35,31-40,Şanlıurfaf31-40,0
+Mersın,473-C1-F-39-UAE-Mer-TPC-T1-00-Y,رزان ,حنطاية,f,39,31-40,Mersınf31-40,0
+Gaziantep,474-c1-f-33-ale-gaz-tpc-t1-a0-y,آية,مراد,f,33,31-40,Gaziantepf31-40,0
+Hatay,476-M2-M-35-Hom-Hat-TPC-T0-00-Y,همام,صبرة,m,35,31-40,Hataym31-40,0
+Hatay,477-M4-F-42-Ham-Hat-TPC-T1-00-Y,فيروز,الشيخ حامد,f,42,41-50,Hatayf41-50,0
+Şanlıurfa,478-M2-M-29-KSA-Şan-TPC-T1-A0-Y,عصام,محملجي,m,29,21-30,Şanlıurfam21-30,0
+Hatay,480-M4-M-54-ldl-Hat-TPC-T1-00-Y,ياسر,الدرغام ,m,54,51-60,Hataym51-60,0
+Şanlıurfa,481-M3-M-50-Dei-Şan-TPC-T1-A0-Y,غالب,الخضري,m,50,51-60,Şanlıurfam51-60,0
+Şanlıurfa,482-M2-M-44-Hom-Şan-TPC-T1-00-Y,يحيى,سويدان,m,44,41-50,Şanlıurfam41-50,0
+Şanlıurfa,486-M2-M-57-Hom-Şan-TPC-T1-A0-Y,محمد خير,عساف,m,57,51-60,Şanlıurfam51-60,1
+Şanlıurfa,487-M4-M-58-Dei-Şan-TPC-T1-00-Y,صالح,شبلي,m,58,51-60,Şanlıurfam51-60,1
+Şanlıurfa,488-M2-M-24-Hom-Şan-TPC-T1-A0-Y,احمد,عساف,m,24,21-30,Şanlıurfam21-30,0
+Hatay,489-M3-M-58-Idl-Hat-TPC-T1-00-Y,عصام,حسون,m,58,51-60,Hataym51-60,0
+Gaziantep,490-M4-M-39-Raq-Gaz-TID-T1-A0-Y,بشير,الهويدي,m,39,31-40,Gaziantepm31-40,0
+Mersın,491-M2-M-32-Hom-Mer-TPC-T1-A0-Y,محمد,تعومة,m,32,31-40,Mersınm31-40,0
+Gaziantep,492-M4-M-62-Dam-Gaz-TPC-T1-00-Y,محمد نزيه,سمسية,m,62,61-70,Gaziantepm61-70,0
+Gaziantep,493-M4-M-42-Ale-Gaz-TPC-T1-00-Y,حسام,قناعة,m,42,41-50,Gaziantepm41-50,0
+Hatay,494-M3-M-32-Hom-Hat-TID-T1-00-Y,عمر,دويك,m,32,31-40,Hataym31-40,0
+Mersın,495-M4-M-59-Ham-Ada-TPC-T1-00-Y,عبد الكريم,الحمدو,m,59,51-60,Mersınm51-60,0
+Mersın,498-M2-M-58-Hom-Mer-TPC-T1-00-Y,مرهف,دعاس,m,58,51-60,Mersınm51-60,0
+Gaziantep,499-M4-M-26-Dam-Gaz-TID-T1-00-Y,محمد,سوسام اوغلو,m,26,21-30,Gaziantepm21-30,0
+Hatay,500-M4-M-50-Ham-Mer-TPC-T1-00-Y,محمد,الشريم,m,50,51-60,Hataym51-60,1
+Şanlıurfa,501-M3-M-58-Raq-Şan-TPC-T1-A0-Y,عامر,الشبلي,m,58,51-60,Şanlıurfam51-60,0
+Şanlıurfa,502-M2-M-29-Raq-Şan-TPC-T1-00-Y,يزيد,الحاج,m,29,21-30,Şanlıurfam21-30,0
+Mersın,503-M3-M-53-Lat-Mer-TPC-T1-A0-Y,حسن,زليطو,m,53,51-60,Mersınm51-60,0
+Hatay,505-M3-M-34-Idl-Hat-TPC-T1-00-Y,عبد القادر ,راغب,m,34,31-40,Hataym31-40,0
+Hatay,507-M3-M-43-Idl-Hat-TPC-T1-00-Y,هويان,الراغب,m,43,41-50,Hataym41-50,1
+Hatay,508-M2-M-54-Idl-Hat-TPC-T1-00-Y,وليد,عبد الله,m,54,51-60,Hataym51-60,0
+Hatay,509-M1-F-42-Idl-Hat-TPC-T1-00-Y,حليمة,الرجب,f,42,41-50,Hatayf41-50,0
+Gaziantep,511-M1-F-38-Hom-Gaz-TPC-T1-A0-Y-W,فدوى,حج يوسف,f,38,31-40,Gaziantepf31-40,0
+Şanlıurfa,512-M1-F-29-Dei-Şan-TPC-T1-00-Y,صفاء,سلامة,f,29,21-30,Şanlıurfaf21-30,0
+Mersın,514-M2-M-33-Dei-Ada-TPC-T1-A0-Y,عمر,الحسن,m,33,31-40,Mersınm31-40,0
+Mersın,515-M4-M-30-Hom-Mer-TPC-T1-A0-Y,مازن,حج يونس,m,30,31-40,Mersınm31-40,0
+Mersın,516-M4-M-28-Ham-Mer-TPC-T1-00-Y,عبدلله,السعدي,m,28,21-30,Mersınm21-30,0
+Mersın,518-M4-M-25-Idl-Mer-TPC-T1-00-Y,سعيد,حجار,m,25,21-30,Mersınm21-30,0
+Şanlıurfa,519-M3-M-42-Dei-Şan-TPC-T1-AT-Y,باسل,العبيد,m,42,41-50,Şanlıurfam41-50,1
+Şanlıurfa,521-M3-M-45-Dei-Şan-TPC-T1-00-Y,احمد,الشاهر,m,45,41-50,Şanlıurfam41-50,0
+Gaziantep,522-M4-M-71-Idl-Kil-TPC-T1-00-Y,كمال,شحادة,m,71,71-80,Gaziantepm71-80,0
+Mersın,523-M2-F-25-Ham-Mer-TRC-T1-00-Y,صبحية,الشربعي,f,25,21-30,Mersınf21-30,0
+Şanlıurfa,524-M4-M-43-Dei-Şan-TID-T1-00-Y,عبد الوهاب,الكريع,m,43,41-50,Şanlıurfam41-50,0
+Şanlıurfa,525-M3-M-40-Dei-Şan-TPC-T1-00-Y,ساري ,العلوان,m,40,41-50,Şanlıurfam41-50,0
+Şanlıurfa,526-M4-M-53-Dei-Mar-TPC-T1-00-Y,عبدالحق,الخليل,m,53,51-60,Şanlıurfam51-60,0
+Şanlıurfa,528-M3-M-33-Dei-Şan-TPC-T1-00-Y,علي,ملا حميد,m,33,31-40,Şanlıurfam31-40,0
+Gaziantep,529-M4-M-41-Ham-Gaz-TID-T1-00-Y,منصور,الأطرش,m,41,41-50,Gaziantepm41-50,1
+Gaziantep,530-M4-M-73-Ale-Kil-TPC-T1-00-Y,محمد غازي,سعيد,m,73,71-80,Gaziantepm71-80,0
+Gaziantep,532-M4-M-62-Ale-Kil-TPC-T1-A0-Y,محمد ربيع,دبا,m,62,61-70,Gaziantepm61-70,1
+Gaziantep,533-M2-M-28-Hom-Gaz-TPC-T1-00-Y,باسل,مروح,m,28,21-30,Gaziantepm21-30,1
+Gaziantep,534-M3-M-45-RIf-Gaz-TPC-T1-00-Y,جلال,عبد العال,m,45,41-50,Gaziantepm41-50,0
+Şanlıurfa,535-M3-M-33-RIf-Şan-TPC-T1-00-Y,جهاد,شومر,m,33,31-40,Şanlıurfam31-40,0
+Şanlıurfa,536-M3-M-36-Ale-Şan-TPC-T1-A0-Y,خليل ,عبدالهادي,m,36,31-40,Şanlıurfam31-40,0
+Mersın,537-M1-F-25-Idl-Ada-NON-T1-A0-Y,ايناس ,كيالي,f,25,21-30,Mersınf21-30,0
+Gaziantep,538-M1-F-42-Idl-Gaz-TPC-T1-00-Y-W,راميا,مراد,f,42,41-50,Gaziantepf41-50,0
+Şanlıurfa,539-M3-M-47-Dei-Şan-TID-T1-A0-Y,عبدالعزيز ,الحاضري,m,47,41-50,Şanlıurfam41-50,1
+Şanlıurfa,540-M3-M-38-RIf-Şan-TPC-T1-A0-Y,وائل,الشومر,m,38,31-40,Şanlıurfam31-40,1
+Mersın,541-M2-M-48-Dam-Ada-TPC-T1-00-Y,فادي,السليمان,m,48,41-50,Mersınm41-50,0
+Şanlıurfa,542-M3-M-38-Dei-Şan-TPC-T1-A0-Y,داوود ,العبد الله ,m,38,31-40,Şanlıurfam31-40,0
+Gaziantep,543-M2-M-39-Ale-Gaz-TPC-T1-00-Y,محمد,كلاوي,m,39,31-40,Gaziantepm31-40,0
+Hatay,545-M3-M-45-HOM-Hat-TPC-T1-00-Y,عاصم,بكار,m,45,41-50,Hataym41-50,0
+Hatay,546-M1-F-28-Lat-Hat-TPC-T1-00-Y,دعاء,منى,f,28,21-30,Hatayf21-30,0
+Şanlıurfa,547-M1-F-31-Dei-Şan-TPC-T1-00-Y,فلك,الجبارة,f,31,31-40,Şanlıurfaf31-40,0
+Şanlıurfa,548-M3-M-53-Dei-Şan-TPC-T1-00-Y,أحمد,الخالدي,m,53,51-60,Şanlıurfam51-60,1
+Şanlıurfa,549-M1-F-41-Dei-Şan-TPC-T1-00-Y,نور,السيد رباح,f,41,41-50,Şanlıurfaf41-50,0
